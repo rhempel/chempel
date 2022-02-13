@@ -1,0 +1,22 @@
+sshfs -o idmap=user rhempel@zwischenwagen.local:/home/rhempel/Projects /home/rhempel/sshfs/zwischenwagen 
+
+From the directory above the one you want to transform:
+
+gm mogrify -create-directories -output-directory Resized/Thumbnails -verbose -quality 85 -resize 320x UrbanDesignAndPlanning/GreyGraniteClub/*.png
+
+gm mogrify -create-directories -output-directory Resized/Originals  -verbose -quality 85 -resize 900x UrbanDesignAndPlanning/GreyGraniteClub/*.png
+
+From the Teasers directory in the OneDrive area:
+
+gm mogrify -create-directories -output-directory "../../Resized/Teasers/UrbanDesignAndPlanning" -verbose -quality 85 -resize 320x128 *.png
+
+gm mogrify -create-directories -output-directory ~/ChristyOneDrive/Resized -verbose -quality 85 -resize 320x213 Thumbnails/*.png
+
+feature_row_xxx:
+  - image_path: "/assets/images/Thumbnails/xxx.png"
+    alt: "xxx"
+    url: "/assets/images/Originals/xxx.png"
+    btn_label: "xxx"
+
+
+
