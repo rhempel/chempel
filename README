@@ -1,3 +1,113 @@
+Getting Started
+---------------
+
+We assume that development is happening inside a Docker Desktop Container
+and that we are using VSCode's devcontainier capability to build and connect
+to the container that will run our Jekyll instance,
+
+
+, and that we ar
+
+
+
+Getting Started - Deprecated
+---------------
+
+Since discovering the Docker ecosystem it ends up being stupidly easy
+to make a container to build a Jekyll site.
+
+Note that there are still times when what you really want is a VM (for example you
+want to communicate with real hardware on external USB/Serial/parallel! ports)
+
+To pull a minimal jekyll image:
+
+sudo docker pull jekyll/minimal
+
+To run the image interactively, change to the directory where this README is
+located and:
+
+sudo docker run -it \
+  --volume="$PWD:/srv/jekyll:Z" \
+  --publish [::1]:4000:4000 \
+  jekyll/minimal \
+  jekyll serve
+
+sudo docker run --it \
+  --rm \
+  --volume="$PWD:/srv/jekyll:Z" \
+  --publish [::1]:4000:4000 \
+  jekyll/minimal \
+  jekyll serve
+
+
+You may need to update the gems from within the image interactively:
+
+bundle update
+
+Note: when this works well enough, eliminate the --it option or save the
+container to run again later.
+
+Image Management
+----------------
+
+In this case we are talking about picture files, which are generally
+JPG or PNG files. PNG files are great for line drawings but they do
+not compress as well as JPGs, and we want to serve up smaller but
+high quality files.
+
+We use GraphicsMagick to manage transforming files in bulk, but before we do that
+let's have a look at how we manage the file structure for images:
+
+assets
+assets/images
+assets/images/Originals - full resolution copies of all original images
+
+Originals/Banners
+Originals/Banners/Blue
+
+Originals/Home
+
+Originals/Research
+Originals/Research/HeritageResearch
+Originals/Research/WindEnergyPlanning
+Originals/Research/LandscapeResearch
+Originals/Research/LEGOProject
+Originals/Research/LEGOProject/Gallery
+Originals/Research/FacilitatedWorkshops
+Originals/Research/QMethodOverview
+Originals/Research/OutdoorPlayResearch
+Originals/Research/CommunicationAndOutreach
+
+Originals/Illustration
+
+Originals/UrbanDesignAndPlanning
+Originals/UrbanDesignAndPlanning/StudentHousingConcept
+Originals/UrbanDesignAndPlanning/SLUCampus
+Originals/UrbanDesignAndPlanning/AdaptiveReUseConcepts
+Originals/UrbanDesignAndPlanning/TheStation
+Originals/UrbanDesignAndPlanning/GreyGraniteClub
+Originals/UrbanDesignAndPlanning/CircularFoodResearch
+Originals/UrbanDesignAndPlanning/UrbanMeadows
+Originals/UrbanDesignAndPlanning/MississaugiPark
+Originals/UrbanDesignAndPlanning/Beausoleil
+Originals/UrbanDesignAndPlanning/GreenInnovationPark
+Originals/UrbanDesignAndPlanning/Skovhave
+Originals/UrbanDesignAndPlanning/AffordableHousing
+Originals/UrbanDesignAndPlanning/Northridge
+Originals/UrbanDesignAndPlanning/CambridgeRevitalization
+ 
+
+gm mogrify -create-directories -output-directory ../Thumbnails -verbose -resize 320x200! -gravity South -extent 320x200 `find -name '*.jpg'`
+
+gm mogrify -create-directories -output-directory ../../Thumbnails/Illustration  -verbose -resize 320x200! -gravity South -extent 320x200 -format jpg `find -name '*.png'`
+
+gm mogrify  -verbose -resize 900x -format jpg `find -name '*.png'`
+
+gm mogrify -format jpg  *.png
+
+gm mogrify -create-directories -output-directory ../Thumbnails -verbose -resize 320x `find -name '*.jpg'`
+
+
 sshfs -o idmap=user rhempel@zwischenwagen.local:/home/rhempel/Projects /home/rhempel/sshfs/zwischenwagen 
 
 From the directory above the one you want to transform:

@@ -159,6 +159,7 @@ exclude:
   - Capfile
   - CHANGELOG
   - config
+  - Dockerfile
   - Gemfile
   - Gruntfile.js
   - gulpfile.js
@@ -279,7 +280,7 @@ defaults:
       share: true
       related: true
       header:
-        overlay_image: /assets/images/Banners/Blue/MasterplanBanner.png
+        overlay_image: /assets/images/Banners/Blue/MasterplanBanner.jpg
         overlay_filter: 0.0 # same as adding an opacity of 0.5 to a black background
 #       caption: "What a silly egg Ralph made"
 #       actions:
