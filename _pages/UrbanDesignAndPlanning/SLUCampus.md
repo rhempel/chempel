@@ -3,27 +3,27 @@ layout: splash
 permalink: "/UrbanDesignAndPlanning/SLUCampus/"
 title: "Urban Design: SLU Campus"
 header:
-# overlay_image: "assets/images/Banners/Blue/MasterplanBanner.png"
+  overlay_image: "assets/images/Banners/Blue/MasterplanBanner.jpg"
 
 gallery_one:
-  - image_path: /assets/images/Originals/UrbanDesignAndPlanning/SLUCampus/BufferStrip.png
-    url: /assets/images/Originals/UrbanDesignAndPlanning/SLUCampus/BufferStrip.png
+  - image_path: /assets/images/Originals/UrbanDesignAndPlanning/SLUCampus/BufferStrip.jpg
+    url: /assets/images/Originals/UrbanDesignAndPlanning/SLUCampus/BufferStrip.jpg
     title: "SLU Campus Buffer Strip"
-  - image_path: /assets/images/Originals/UrbanDesignAndPlanning/SLUCampus/Greenhouse.png
-    url: /assets/images/Originals/UrbanDesignAndPlanning/SLUCampus/Greenhouse.png
+  - image_path: /assets/images/Originals/UrbanDesignAndPlanning/SLUCampus/Greenhouse.jpg
+    url: /assets/images/Originals/UrbanDesignAndPlanning/SLUCampus/Greenhouse.jpg
     title: "SLU Campus Greenhouse"
 
 gallery_two:
-  - image_path: /assets/images/Originals/UrbanDesignAndPlanning/SLUCampus/MasterPlan.png
-    url: /assets/images/Originals/UrbanDesignAndPlanning/SLUCampus/MasterPlan.png
+  - image_path: /assets/images/Originals/UrbanDesignAndPlanning/SLUCampus/MasterPlan.jpg
+    url: /assets/images/Originals/UrbanDesignAndPlanning/SLUCampus/MasterPlan.jpg
     title: "SLU Campus Master PLan"
     title: "SLU Campus Wellness Center"
 
 gallery_three:
-  - image_path: /assets/images/Originals/UrbanDesignAndPlanning/SLUCampus/WellnessCenter.png
-    url: /assets/images/Originals/UrbanDesignAndPlanning/SLUCampus/WellnessCenter.png
-  - image_path: /assets/images/Originals/UrbanDesignAndPlanning/SLUCampus/Meadow.png
-    url: /assets/images/Originals/UrbanDesignAndPlanning/SLUCampus/Meadow.png
+  - image_path: /assets/images/Originals/UrbanDesignAndPlanning/SLUCampus/WellnessCenter.jpg
+    url: /assets/images/Originals/UrbanDesignAndPlanning/SLUCampus/WellnessCenter.jpg
+  - image_path: /assets/images/Originals/UrbanDesignAndPlanning/SLUCampus/Meadow.jpg
+    url: /assets/images/Originals/UrbanDesignAndPlanning/SLUCampus/Meadow.jpg
     title: "SLU Campus Meadow"
 ---
 
@@ -57,5 +57,5 @@ center, and a new Circular-Food research center.
 The following projects have related content:
 
 * [Student Housing Proposal](/UrbanDesignAndPlanning/StudentHousing)
-* [Green Innovation Park](/UrbanDesignAndPlanning/GreenInnovationPark.html)
-* [Circular Food Research Centre](/UrbanDesignAndPlanning/CircularFoodResearch.html)
+* [Green Innovation Park](/UrbanDesignAndPlanning/GreenInnovationPark)
+* [Circular Food Research Centre](/UrbanDesignAndPlanning/CircularFoodResearch)

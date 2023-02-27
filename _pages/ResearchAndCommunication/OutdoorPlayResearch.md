@@ -2,33 +2,33 @@
 permalink: "/Research/OutdoorPlayResearch/"
 title: "Play Research"
 header:
-  overlay_image: "assets/images/Banners/Blue/PlayResearchBanner1.png"
+  overlay_image: "assets/images/Banners/Blue/PlayResearchBanner1.jpg"
 layout: splash
 # toc: true
 # toc_sticky: true
 
 gallery_header:
-  - image_path: /assets/images/Originals/Research/OutdoorPlayResearch/Factor.png
-    url: /assets/images/Originals/Research/OutdoorPlayResearch/Factor.png
+  - image_path: /assets/images/Originals/Research/OutdoorPlayResearch/Factor.jpg
+    url: /assets/images/Originals/Research/OutdoorPlayResearch/Factor.jpg
     title: ""
-  - image_path: /assets/images/Originals/Research/OutdoorPlayResearch/Child2.png
-    url: /assets/images/Originals/Research/OutdoorPlayResearch/Child2.png
+  - image_path: /assets/images/Originals/Research/OutdoorPlayResearch/Child2.jpg
+    url: /assets/images/Originals/Research/OutdoorPlayResearch/Child2.jpg
     title: ""
 
 gallery_one:
-  - image_path: /assets/images/Thumbnails/Research/OutdoorPlayResearch/Climbing.png
-    url: /assets/images/Originals/Research/OutdoorPlayResearch/Climbing.png
+  - image_path: /assets/images/Thumbnails/Research/OutdoorPlayResearch/Climbing.jpg
+    url: /assets/images/Originals/Research/OutdoorPlayResearch/Climbing.jpg
     title: ""
-  - image_path: /assets/images/Thumbnails/Research/OutdoorPlayResearch/Cat.png
-    url: /assets/images/Originals/Research/OutdoorPlayResearch/Cat.png
+  - image_path: /assets/images/Thumbnails/Research/OutdoorPlayResearch/Cat.jpg
+    url: /assets/images/Originals/Research/OutdoorPlayResearch/Cat.jpg
     title: ""
 
 gallery_two:
-  - image_path: /assets/images/Thumbnails/Research/OutdoorPlayResearch/Cycling.png
-    url: /assets/images/Originals/Research/OutdoorPlayResearch/Cycling.png
+  - image_path: /assets/images/Thumbnails/Research/OutdoorPlayResearch/Cycling.jpg
+    url: /assets/images/Originals/Research/OutdoorPlayResearch/Cycling.jpg
     title: ""
-  - image_path: /assets/images/Thumbnails/Research/OutdoorPlayResearch/Skateboarding.png
-    url: /assets/images/Originals/Research/OutdoorPlayResearch/Skateboarding.png
+  - image_path: /assets/images/Thumbnails/Research/OutdoorPlayResearch/Skateboarding.jpg
+    url: /assets/images/Originals/Research/OutdoorPlayResearch/Skateboarding.jpg
     title: ""
 ---
 
@@ -68,7 +68,7 @@ informative results with a relatively small number of participants. Children of
 diverse age ranges and variety of cultural backgrounds were able to express
 their views about play experiences they find enjoyable. 
 
-![](/assets/images/Thumbnails/Research/OutdoorPlayResearch/CYECover.jpeg){: .align-left}
+![](/assets/images/Thumbnails/Research/OutdoorPlayResearch/CYECover.jpg){: .align-left}
 
 For a detailed article about this innovative study, see the
   [March 2021 issue of Children, Youth, and Environments](https://www.jstor.org/stable/10.7721/chilyoutenvi.31.1.0088?refreqid=excelsior%3Adf3aa01cf72c12a6a0aece94b6f19fae&seq=1)

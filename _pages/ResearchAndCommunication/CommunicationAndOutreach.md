@@ -1,18 +1,16 @@
 ---
 permalink: "/Research/CommunicationAndOutreach/"
-title: "Facilitated Workshops"
+title: "Communication and Outreach"
 header:
-# overlay_image: "assets/images/Banners/Blue/FacilitationBanner.png"
-#toc: true
-#toc_sticky: true
+  overlay_image: "assets/images/Banners/Blue/FacilitationBanner.jpg"
 layout: splash
 
 gallery_one:
-  - image_path: /assets/images/Originals/Research/CommunicationAndOutreach/GreenTeamToTheRescue.png
-    url: /assets/images/Originals/Research/CommunicationAndOutreach/GreenTeamToTheRescue.png
+  - image_path: /assets/images/Originals/Research/CommunicationAndOutreach/GreenTeamToTheRescue.jpg
+    url: /assets/images/Originals/Research/CommunicationAndOutreach/GreenTeamToTheRescue.jpg
     title: "Green Team to the Rescue - Earth Day Heroes as LEGO Characters"
-  - image_path: /assets/images/Originals/Research/CommunicationAndOutreach/SustainableCityColumn.png
-    url: /assets/images/Originals/Research/CommunicationAndOutreach/SustainableCityColumn.png
+  - image_path: /assets/images/Originals/Research/CommunicationAndOutreach/SustainableCityColumn.jpg
+    url: /assets/images/Originals/Research/CommunicationAndOutreach/SustainableCityColumn.jpg
     title: "Sustainable City Column for the Owen Sound Sun Times Newspaper"
 ---
 
@@ -29,4 +27,4 @@ and the general public. Most recently, she designed the exhibit “Design with
 Nature: Design with LEGO” to communicate concepts of ecological design during
 interactive play workshops with school-aged children.
 
-  * [Design With Nature - Design With LEGO](Research/LEGOProject/)
+  * [Design with Nature - Design with LEGO](/Research/LEGOProject/)

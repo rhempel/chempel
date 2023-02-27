@@ -3,40 +3,38 @@ permalink: "/UrbanDesignAndPlanning/GreenInnovationPark/"
 title: "Green Innovation Park - Uppsala"
 layout: splash
 header:
-# overlay_image: "assets/images/banners/QMethodBanner.png"
-#oc: true
-#oc_sticky: true
+  overlay_image: "assets/images/Banners/Blue/MasterplanBanner.jpg"
 
 gallery_header:
-  - image_path: /assets/images/Thumbnails/UrbanDesignAndPlanning/GreenInnovationPark/GreenInnovationPark.png
-    url: /assets/images/Originals/UrbanDesignAndPlanning/GreenInnovationPark/GreenInnovationPark.png
+  - image_path: /assets/images/Thumbnails/UrbanDesignAndPlanning/GreenInnovationPark/GreenInnovationPark.jpg
+    url: /assets/images/Originals/UrbanDesignAndPlanning/GreenInnovationPark/GreenInnovationPark.jpg
     title: "Green Innovation Park Aerial View"
-  - image_path: /assets/images/Thumbnails/UrbanDesignAndPlanning/GreenInnovationPark/Plan.png
-    url: /assets/images/Originals/UrbanDesignAndPlanning/GreenInnovationPark/Plan.png
+  - image_path: /assets/images/Thumbnails/UrbanDesignAndPlanning/GreenInnovationPark/Plan.jpg
+    url: /assets/images/Originals/UrbanDesignAndPlanning/GreenInnovationPark/Plan.jpg
     title: "Green Innovatin Park Site Plan"
 
 gallery_one:
-  - image_path: /assets/images/Thumbnails/UrbanDesignAndPlanning/GreenInnovationPark/Greenhouse.png
-    url: /assets/images/Originals/UrbanDesignAndPlanning/GreenInnovationPark/Greenhouse.png
+  - image_path: /assets/images/Thumbnails/UrbanDesignAndPlanning/GreenInnovationPark/Greenhouse.jpg
+    url: /assets/images/Originals/UrbanDesignAndPlanning/GreenInnovationPark/Greenhouse.jpg
     title: "Concepts sketches for expanded greenhouse research facility, café and market" 
-  - image_path: /assets/images/Thumbnails/UrbanDesignAndPlanning/GreenInnovationPark/CropResearch.png
-    url: /assets/images/Originals/UrbanDesignAndPlanning/GreenInnovationPark/CropResearch.png
+  - image_path: /assets/images/Thumbnails/UrbanDesignAndPlanning/GreenInnovationPark/CropResearch.jpg
+    url: /assets/images/Originals/UrbanDesignAndPlanning/GreenInnovationPark/CropResearch.jpg
     title: "Integration of exterior and interior food production research with orchards"
 
 gallery_two:
-  - image_path: /assets/images/Thumbnails/UrbanDesignAndPlanning/GreenInnovationPark/GreenBuildingResearch.png
-    url: /assets/images/Originals/UrbanDesignAndPlanning/GreenInnovationPark/GreenBuildingResearch.png
+  - image_path: /assets/images/Thumbnails/UrbanDesignAndPlanning/GreenInnovationPark/GreenBuildingResearch.jpg
+    url: /assets/images/Originals/UrbanDesignAndPlanning/GreenInnovationPark/GreenBuildingResearch.jpg
     title: "Green construction concepts research facility"
-  - image_path: /assets/images/Thumbnails/UrbanDesignAndPlanning/GreenInnovationPark/StreetLevelView.png
-    url: /assets/images/Originals/UrbanDesignAndPlanning/GreenInnovationPark/StreetLevelView.png
+  - image_path: /assets/images/Thumbnails/UrbanDesignAndPlanning/GreenInnovationPark/StreetLevelView.jpg
+    url: /assets/images/Originals/UrbanDesignAndPlanning/GreenInnovationPark/StreetLevelView.jpg
     title: "Pedestrian streets with market activity and greywater management"
 
 gallery_three:
-  - image_path: /assets/images/Thumbnails/UrbanDesignAndPlanning/GreenInnovationPark/HousingInfill.png
-    url: /assets/images/Originals/UrbanDesignAndPlanning/GreenInnovationPark/HousingInfill.png
+  - image_path: /assets/images/Thumbnails/UrbanDesignAndPlanning/GreenInnovationPark/HousingInfill.jpg
+    url: /assets/images/Originals/UrbanDesignAndPlanning/GreenInnovationPark/HousingInfill.jpg
     title: "Mixed use program integrates housing and recreational hub"
-  - image_path: /assets/images/Thumbnails/UrbanDesignAndPlanning/GreenInnovationPark/CircularFoodResearch.png
-    url: /assets/images/Originals/UrbanDesignAndPlanning/GreenInnovationPark/CircularFoodResearch.png
+  - image_path: /assets/images/Thumbnails/UrbanDesignAndPlanning/GreenInnovationPark/CircularFoodResearch.jpg
+    url: /assets/images/Originals/UrbanDesignAndPlanning/GreenInnovationPark/CircularFoodResearch.jpg
     title: "Potential location for circular food research facility"
 ---
 

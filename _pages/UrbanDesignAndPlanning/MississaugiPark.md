@@ -3,11 +3,11 @@ layout: splash
 permalink: "/UrbanDesignAndPlanning/MississaugiPark/"
 title: "Urban Design: Mississaugi Park"
 header:
-  overlay_image: "assets/images/Banners/Blue/MasterplanBanner.png"
+  overlay_image: "assets/images/Banners/Blue/MasterplanBanner.jpg"
 
 gallery_one:
-  - image_path: /assets/images/Originals/UrbanDesignAndPlanning/MississaugiPark/MississaugiParkPlanning.png
-    url: /assets/images/Originals/UrbanDesignAndPlanning/MississaugiPark/MississaugiParkPlanning.png
+  - image_path: /assets/images/Originals/UrbanDesignAndPlanning/MississaugiPark/MississaugiParkPlanning.jpg
+    url: /assets/images/Originals/UrbanDesignAndPlanning/MississaugiPark/MississaugiParkPlanning.jpg
     title: "Mississaugi Park Aerieal View"
 ---
 

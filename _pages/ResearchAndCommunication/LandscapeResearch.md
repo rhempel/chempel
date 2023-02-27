@@ -2,26 +2,26 @@
 permalink: "/Research/LandscapeResearch/"
 title: "Landscape Preferences Using Q-Method"
 header:
-  overlay_image: "assets/images/Banners/Blue/LandscapeResearchBanner.png"
+  overlay_image: "assets/images/Banners/Blue/LandscapeResearchBanner.jpg"
 #toc: true
 #toc_sticky: true
 layout: splash
 
 gallery_one:
-  - image_path: /assets/images/Thumbnails/Research/LandscapeResearch/Materials.png
-    url: /assets/images/Originals/Research/LandscapeResearch/Materials.png
+  - image_path: /assets/images/Thumbnails/Research/LandscapeResearch/Materials.jpg
+    url: /assets/images/Originals/Research/LandscapeResearch/Materials.jpg
     title: "Materials for Visual Q-Method research"
-  - image_path: /assets/images/Thumbnails/Research/LandscapeResearch/Participant.png
-    url: /assets/images/Originals/Research/LandscapeResearch/Participant.png
+  - image_path: /assets/images/Thumbnails/Research/LandscapeResearch/Participant.jpg
+    url: /assets/images/Originals/Research/LandscapeResearch/Participant.jpg
     title: "Participant performing a Visual Q-Sort"
 
 gallery_two:
-  - image_path: /assets/images/Thumbnails/Research/LandscapeResearch/OldBarn.png
-    url: /assets/images/Originals/Research/LandscapeResearch/OldBarn.png
-  - image_path: /assets/images/Thumbnails/Research/LandscapeResearch/Farmhouse.png
-    url: /assets/images/Originals/Research/LandscapeResearch/Farmhouse.png
-  - image_path: /assets/images/Thumbnails/Research/LandscapeResearch/Field.png
-    url: /assets/images/Originals/Research/LandscapeResearch/Field.png
+  - image_path: /assets/images/Thumbnails/Research/LandscapeResearch/OldBarn.jpg
+    url: /assets/images/Originals/Research/LandscapeResearch/OldBarn.jpg
+  - image_path: /assets/images/Thumbnails/Research/LandscapeResearch/Farmhouse.jpg
+    url: /assets/images/Originals/Research/LandscapeResearch/Farmhouse.jpg
+  - image_path: /assets/images/Thumbnails/Research/LandscapeResearch/Field.jpg
+    url: /assets/images/Originals/Research/LandscapeResearch/Field.jpg
 
 ---
 
@@ -57,7 +57,7 @@ number of participants share.
 
 ## Factor 1: The Naturalist
 
-![](/assets/images/Originals/Research/LandscapeResearch/TheNaturalist.png)
+![](/assets/images/Originals/Research/LandscapeResearch/TheNaturalist.jpg)
  
 The Naturalist represents the most common value orientation found
 among participants in the study. Most preferred are natural landscapes, where
@@ -68,7 +68,7 @@ infrastructure.
 
 ## Factor 2: The Gardener
 
-![](/assets/images/Originals/Research/LandscapeResearch/TheGardener.png)
+![](/assets/images/Originals/Research/LandscapeResearch/TheGardener.jpg)
 
 The Gardener corresponds with a view of the landscape as both nature and a home
 for humans. Preferred landscapes reveal human effort to work with nature to
@@ -78,7 +78,7 @@ are fine grained and have a balance of human and natural elements.
 
 ## Factor 3: The Cultivator
 
-![](/assets/images/Originals/Research/LandscapeResearch/TheCultivator.png)
+![](/assets/images/Originals/Research/LandscapeResearch/TheCultivator.jpg)
 
 The Cultivator prefers farming landscapes with open landscapes. Historic and
 modern agricultural traditions are equally embraced as they represent the
@@ -87,7 +87,7 @@ building and management of landscapes.
 
 ## Factor 4: The Builder
 
-![](/assets/images/Originals/Research/LandscapeResearch/TheBuilder.png)
+![](/assets/images/Originals/Research/LandscapeResearch/TheBuilder.jpg)
 
 The Builder appreciates landscapes that display strength and evidence of human
 creativity, natural forces, or a combination of both. These participants prefer

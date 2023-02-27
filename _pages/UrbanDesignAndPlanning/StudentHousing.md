@@ -3,14 +3,14 @@ layout: splash
 permalink: "/UrbanDesignAndPlanning/StudentHousing/"
 title: "Urban Design: Student Housing Concept"
 header:
-# overlay_image: "assets/images/Banners/Blue/MasterplanBanner.png"
+  overlay_image: "assets/images/Banners/Blue/MasterplanBanner.jpg"
 
 gallery_one:
-  - image_path: /assets/images/Originals/UrbanDesignAndPlanning/StudentHousingConcept/StudentHousing.png
-    url: /assets/images/Originals/UrbanDesignAndPlanning/StudentHousingConcept/StudentHousing.png
+  - image_path: /assets/images/Originals/UrbanDesignAndPlanning/StudentHousingConcept/StudentHousing.jpg
+    url: /assets/images/Originals/UrbanDesignAndPlanning/StudentHousingConcept/StudentHousing.jpg
     title: "SLU Student Housing Concept"
-  - image_path: /assets/images/Originals/UrbanDesignAndPlanning/StudentHousingConcept/Plan.png
-    url: /assets/images/Originals/UrbanDesignAndPlanning/StudentHousingConcept/Plan.png
+  - image_path: /assets/images/Originals/UrbanDesignAndPlanning/StudentHousingConcept/Plan.jpg
+    url: /assets/images/Originals/UrbanDesignAndPlanning/StudentHousingConcept/Plan.jpg
     title: "SLU Student Housing Concept - Plan"
 ---
 
@@ -24,5 +24,5 @@ Sciences (SLU) Uppsala_
 
 The following projects have related content:
 
-* [Green Innovation Park](/UrbanDesignAndPlanning/GreenInnovationPark.html)
-* [Circular Food Research Centre](/UrbanDesignAndPlanning/CircularFoodResearch.html)
+* [Green Innovation Park](/UrbanDesignAndPlanning/GreenInnovationPark)
+* [Circular Food Research Centre](/UrbanDesignAndPlanning/CircularFoodResearch)

@@ -2,7 +2,7 @@
 permalink: "/Research/WindEnergyPlanning/"
 title: "Wind Energy Planning"
 header:
-  overlay_image: "assets/images/Banners/Blue/WindEnergyBanner.png"
+  overlay_image: "assets/images/Banners/Blue/WindEnergyBanner.jpg"
 layout: splash
 
 #toc: true
@@ -17,7 +17,7 @@ preferences, and their perceptions of wind energy landscapes in
 Grey, Bruce and Huron Counties, and culminated in a participatory,
 community-based planning workshop. 
 
-{% include figure image_path="/assets/images/Originals/Research/WindEnergyPlanning/DeliberativeProcess.png"
+{% include figure image_path="/assets/images/Originals/Research/WindEnergyPlanning/DeliberativeProcess.jpg"
                          alt="Deliberative Process"
                      caption="Deliberative Process for Wind Energy Planning" %}
 
@@ -46,7 +46,7 @@ of deeply rooted but differing place identities, but that common ground can be
 reached in a planning context while accommodating diverse cultural relationships
 to landscape.
  
-{% include figure image_path="/assets/images/Originals/Research/WindEnergyPlanning/SynthesisMap.png"
+{% include figure image_path="/assets/images/Originals/Research/WindEnergyPlanning/SynthesisMap.jpg"
                          alt="Synthesis Map"
                      caption="Synthesised Map Resulting from Deliberative Process" %}
 

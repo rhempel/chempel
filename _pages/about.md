@@ -5,7 +5,7 @@ share: true
 layout: splash
 ---
 
-![](/assets/images/Thumbnails/Home/ChristyHeadshotBW.png){: .align-left}
+![](/assets/images/Home/ChristyHeadshotBWThumbnail.jpg){: .align-left}
 
 Christine is an urban designer, teacher, researcher and illustrator with a
 passion for building engaging, ecologically-responsible and beautiful

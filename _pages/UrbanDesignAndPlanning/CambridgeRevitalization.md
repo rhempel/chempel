@@ -3,22 +3,21 @@ layout: splash
 permalink: "/UrbanDesignAndPlanning/CambridgeRevitalization/"
 title: "Urban Design: Cambridge Revitalization"
 header:
-# overlay_image: "assets/images/Banners/Blue/MasterplanBanner.png"
-# toc: true
+  overlay_image: "assets/images/Banners/Blue/MasterplanBanner.jpg"
 
 gallery_one:
-  - image_path: /assets/images/Originals/UrbanDesignAndPlanning/CambridgeRevitalization/InterventionsGalt.png
-    url: /assets/images/Originals/UrbanDesignAndPlanning/CambridgeRevitalization/InterventionsGalt.png
+  - image_path: /assets/images/Originals/UrbanDesignAndPlanning/CambridgeRevitalization/InterventionsGalt.jpg
+    url: /assets/images/Originals/UrbanDesignAndPlanning/CambridgeRevitalization/InterventionsGalt.jpg
     title: "Cambridge Revitalization - Galt, Ontario"
 
 gallery_two:
-  - image_path: /assets/images/Originals/UrbanDesignAndPlanning/CambridgeRevitalization/InterventionsPreston.png
-    url: /assets/images/Originals/UrbanDesignAndPlanning/CambridgeRevitalization/InterventionsPreston.png
+  - image_path: /assets/images/Originals/UrbanDesignAndPlanning/CambridgeRevitalization/InterventionsPreston.jpg
+    url: /assets/images/Originals/UrbanDesignAndPlanning/CambridgeRevitalization/InterventionsPreston.jpg
     title: "Cambridge Revitalization - Preston, Ontario"
 
 gallery_three:
-  - image_path: /assets/images/Originals/UrbanDesignAndPlanning/CambridgeRevitalization/InterventionsHespeler.png
-    url: /assets/images/Originals/UrbanDesignAndPlanning/CambridgeRevitalization/InterventionsHespeler.png
+  - image_path: /assets/images/Originals/UrbanDesignAndPlanning/CambridgeRevitalization/InterventionsHespeler.jpg
+    url: /assets/images/Originals/UrbanDesignAndPlanning/CambridgeRevitalization/InterventionsHespeler.jpg
     title: "Cambridge Revitalization - Hespeler, Ontario"
 ---
 

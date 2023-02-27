@@ -3,19 +3,19 @@ layout: splash
 permalink: "/UrbanDesignAndPlanning/Northridge/"
 title: "Urban Design: Northridge Master Plan"
 header:
-  overlay_image: "assets/images/Banners/Blue/MasterplanBanner.png"
+  overlay_image: "assets/images/Banners/Blue/MasterplanBanner.jpg"
 
 gallery_one:
-  - image_path: /assets/images/Originals/UrbanDesignAndPlanning/Northridge/SitePlan.png
-    url: /assets/images/Originals/UrbanDesignAndPlanning/Northridge/SitePlan.png
+  - image_path: /assets/images/Originals/UrbanDesignAndPlanning/Northridge/SitePlan.jpg
+    url: /assets/images/Originals/UrbanDesignAndPlanning/Northridge/SitePlan.jpg
     title: "Northridge Completed Site Plan"
 
 gallery_two:
-  - image_path: /assets/images/Thumbnails/UrbanDesignAndPlanning/Northridge/LakeshoreVignette.png
-    url: /assets/images/Originals/UrbanDesignAndPlanning/Northridge/LakeshoreVignette.png
+  - image_path: /assets/images/Thumbnails/UrbanDesignAndPlanning/Northridge/LakeshoreVignette.jpg
+    url: /assets/images/Originals/UrbanDesignAndPlanning/Northridge/LakeshoreVignette.jpg
     title: "Northridge Lakeshore Vignette"
-  - image_path: /assets/images/Thumbnails/UrbanDesignAndPlanning/Northridge/RecreationPlan.png
-    url: /assets/images/Originals/UrbanDesignAndPlanning/Northridge/RecreationPlan.png
+  - image_path: /assets/images/Thumbnails/UrbanDesignAndPlanning/Northridge/RecreationPlan.jpg
+    url: /assets/images/Originals/UrbanDesignAndPlanning/Northridge/RecreationPlan.jpg
     title: "Northridge Site Plan with Parks and Recreation Lands Highlighted"
 ---
 

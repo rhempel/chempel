@@ -3,55 +3,53 @@ permalink: "/UrbanDesignAndPlanning/AffordableHousing/"
 title: "Affordable Housing"
 layout: splash
 header:
-  overlay_image: "assets/images/Banners/Blue/AffordableHousingBanner.png"
-#toc: true
-#toc_sticky: true
+  overlay_image: "assets/images/Banners/Blue/AffordableHousingBanner.jpg"
 
 gallery_header:
-  - image_path: /assets/images/Originals/UrbanDesignAndPlanning/AffordableHousing/SeniorsHousing.png
-    url: /assets/images/Originals/UrbanDesignAndPlanning/AffordableHousing/SeniorsHousing.png
+  - image_path: /assets/images/Originals/UrbanDesignAndPlanning/AffordableHousing/SeniorsHousing.jpg
+    url: /assets/images/Originals/UrbanDesignAndPlanning/AffordableHousing/SeniorsHousing.jpg
     title: "East Hill Senior's Housing Proposal - Owen Sound, Ontario"
 
 gallery_one:
-  - image_path: /assets/images/Thumbnails/UrbanDesignAndPlanning/AffordableHousing/PrimmerBefore.png
-    url: /assets/images/Originals/UrbanDesignAndPlanning/AffordableHousing/PrimmerBefore.png
+  - image_path: /assets/images/Thumbnails/UrbanDesignAndPlanning/AffordableHousing/PrimmerBefore.jpg
+    url: /assets/images/Originals/UrbanDesignAndPlanning/AffordableHousing/PrimmerBefore.jpg
     title: "Assisted Living Before"
-  - image_path: /assets/images/Thumbnails/UrbanDesignAndPlanning/AffordableHousing/PrimmerAfter.png
-    url: /assets/images/Originals/UrbanDesignAndPlanning/AffordableHousing/PrimmerAfter.png
+  - image_path: /assets/images/Thumbnails/UrbanDesignAndPlanning/AffordableHousing/PrimmerAfter.jpg
+    url: /assets/images/Originals/UrbanDesignAndPlanning/AffordableHousing/PrimmerAfter.jpg
     title: "Assisted Living After"
 
 gallery_two:
-  - image_path: /assets/images/Thumbnails/UrbanDesignAndPlanning/AffordableHousing/KennedyBefore.png
-    url: /assets/images/Originals/UrbanDesignAndPlanning/AffordableHousing/KennedyBefore.png
+  - image_path: /assets/images/Thumbnails/UrbanDesignAndPlanning/AffordableHousing/KennedyBefore.jpg
+    url: /assets/images/Originals/UrbanDesignAndPlanning/AffordableHousing/KennedyBefore.jpg
     title: "Social Housing Before"
-  - image_path: /assets/images/Thumbnails/UrbanDesignAndPlanning/AffordableHousing/Kennedy.png
-    url: /assets/images/Originals/UrbanDesignAndPlanning/AffordableHousing/Kennedy.png
+  - image_path: /assets/images/Thumbnails/UrbanDesignAndPlanning/AffordableHousing/KennedyAfter.jpg
+    url: /assets/images/Originals/UrbanDesignAndPlanning/AffordableHousing/KennedyAfter.jpg
     title: "Social Housing After"
 
 gallery_three:
-  - image_path: /assets/images/Thumbnails/UrbanDesignAndPlanning/AffordableHousing/RiverworksBefore.png
-    url: /assets/images/Originals/UrbanDesignAndPlanning/AffordableHousing/RiverworksBefore.png
+  - image_path: /assets/images/Thumbnails/UrbanDesignAndPlanning/AffordableHousing/RiverworksBefore.jpg
+    url: /assets/images/Originals/UrbanDesignAndPlanning/AffordableHousing/RiverworksBefore.jpg
     title: "Riverworks Before"
-  - image_path: /assets/images/Thumbnails/UrbanDesignAndPlanning/AffordableHousing/RiverworksAfter.png
-    url: /assets/images/Originals/UrbanDesignAndPlanning/AffordableHousing/RiverworksAfter.png
+  - image_path: /assets/images/Thumbnails/UrbanDesignAndPlanning/AffordableHousing/RiverworksAfter.jpg
+    url: /assets/images/Originals/UrbanDesignAndPlanning/AffordableHousing/RiverworksAfter.jpg
     title: "Riverworks Affordable and Upscale Housing After"
 
 gallery_four:
-  - image_path: /assets/images/Thumbnails/UrbanDesignAndPlanning/AffordableHousing/HomeownerPlans.png
-    url: /assets/images/Originals/UrbanDesignAndPlanning/AffordableHousing/HomeownerPlans.png
+  - image_path: /assets/images/Thumbnails/UrbanDesignAndPlanning/AffordableHousing/HomeownerPlans.jpg
+    url: /assets/images/Originals/UrbanDesignAndPlanning/AffordableHousing/HomeownerPlans.jpg
     title: "Working on plans for the homeowner"
-  - image_path: /assets/images/Thumbnails/UrbanDesignAndPlanning/AffordableHousing/Plans.png
-    url: /assets/images/Originals/UrbanDesignAndPlanning/AffordableHousing/Plans.png
+  - image_path: /assets/images/Thumbnails/UrbanDesignAndPlanning/AffordableHousing/Plans.jpg
+    url: /assets/images/Originals/UrbanDesignAndPlanning/AffordableHousing/Plans.jpg
     title: "Completed plans"
 
 gallery_infill:
-  - image_path: /assets/images/Originals/UrbanDesignAndPlanning/AffordableHousing/FourUnitProject.png
-    url: /assets/images/Originals/UrbanDesignAndPlanning/AffordableHousing/FourUnitProject.png
+  - image_path: /assets/images/Originals/UrbanDesignAndPlanning/AffordableHousing/FourUnitProject.jpg
+    url: /assets/images/Originals/UrbanDesignAndPlanning/AffordableHousing/FourUnitProject.jpg
     title: "Four Unit Infill Project in Single Family Rsidential Zone - Owen Sound, Ontario"
 
 gallery_secondary:
-  - image_path: /assets/images/Originals/UrbanDesignAndPlanning/AffordableHousing/SecondarySuites.png
-    url: /assets/images/Originals/UrbanDesignAndPlanning/AffordableHousing/SecondarySuites.png
+  - image_path: /assets/images/Originals/UrbanDesignAndPlanning/AffordableHousing/SecondarySuites.jpg
+    url: /assets/images/Originals/UrbanDesignAndPlanning/AffordableHousing/SecondarySuites.jpg
     title: "Model of Secondary Suite Proposal"
 ---
 

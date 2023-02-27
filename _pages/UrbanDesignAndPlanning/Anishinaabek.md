@@ -3,19 +3,19 @@ layout: splash
 permalink: "/UrbanDesignAndPlanning/Beausoleil/"
 title: "Urban Design: Springwater Park"
 header:
-# overlay_image: "assets/images/Banners/Blue/MasterplanBanner.png"
+  overlay_image: "assets/images/Banners/Blue/MasterplanBanner.jpg"
 
 gallery_one:
-  - image_path: /assets/images/Originals/UrbanDesignAndPlanning/Beausoleil/SpringwaterCreek.png
-    url: /assets/images/Originals/UrbanDesignAndPlanning/Beausoleil/SpringwaterCreek.png
+  - image_path: /assets/images/Originals/UrbanDesignAndPlanning/Beausoleil/SpringwaterCreek.jpg
+    url: /assets/images/Originals/UrbanDesignAndPlanning/Beausoleil/SpringwaterCreek.jpg
     title: "Park Proposal - Springwater Creek - Barrie, Ontario"
-  - image_path: /assets/images/Originals/UrbanDesignAndPlanning/Beausoleil/Cabin.png
-    url: /assets/images/Originals/UrbanDesignAndPlanning/Beausoleil/Cabin.png
+  - image_path: /assets/images/Originals/UrbanDesignAndPlanning/Beausoleil/Cabin.jpg
+    url: /assets/images/Originals/UrbanDesignAndPlanning/Beausoleil/Cabin.jpg
     title: "Cabin - Springwater Creek - Barrie, Ontario"
 
 gallery_two:
-  - image_path: /assets/images/Originals/UrbanDesignAndPlanning/Beausoleil/Diagrams.png
-    url: /assets/images/Originals/UrbanDesignAndPlanning/Beausoleil/Diagrams.png
+  - image_path: /assets/images/Originals/UrbanDesignAndPlanning/Beausoleil/Diagrams.jpg
+    url: /assets/images/Originals/UrbanDesignAndPlanning/Beausoleil/Diagrams.jpg
     title: "Diagrams - Springwater Creek - Barrie, Ontario"
 ---
 

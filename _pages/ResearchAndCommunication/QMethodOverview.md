@@ -2,16 +2,16 @@
 permalink: "/Research/QMethodOverview/"
 title: "Q Method Overview"
 header:
-  overlay_image: "assets/images/Banners/Blue/QMethodBanner.png"
+  overlay_image: "assets/images/Banners/Blue/QMethodBanner.jpg"
 layout: splash
 
 #toc: true
 
 gallery_one:
-  - image_path: /assets/images/Originals/Research/QMethodOverview/OpinionDomain.png
+  - image_path: /assets/images/Originals/Research/QMethodOverview/OpinionDomain.jpg
     alt: "Q-Method Opinion Domain"
     title: "Q-Method Opinion Domain"
-  - image_path: /assets/images/Originals/Research/QMethodOverview/Participants.png
+  - image_path: /assets/images/Originals/Research/QMethodOverview/Participants.jpg
     alt: "Q-Method Participants"
     title: "Q-Method Participants"
 ---

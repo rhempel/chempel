@@ -8,31 +8,31 @@ header:
 layout: splash
 
 gallery_one:
-  - image_path: /assets/images/Originals/UrbanDesignAndPlanning/TheStation/CPStationAfter.png
-    url: /assets/images/Originals/UrbanDesignAndPlanning/TheStation/CPStationAfter.png
+  - image_path: /assets/images/Originals/UrbanDesignAndPlanning/TheStation/CPStationAfter.jpg
+    url: /assets/images/Originals/UrbanDesignAndPlanning/TheStation/CPStationAfter.jpg
 
 gallery_two:
-  - image_path: /assets/images/Thumbnails/Research/LandscapeResearch/Haywagon.png
-    url: /assets/images/Originals/Research/LandscapeResearch/Haywagon.png
-  - image_path: /assets/images/Thumbnails/Research/LandscapeResearch/CabinInTheWoods.png
-    url: /assets/images/Originals/Research/LandscapeResearch/CabinInTheWoods.png
-  - image_path: /assets/images/Thumbnails/Research/LandscapeResearch/Bridge.png
-    url: /assets/images/Originals/Research/LandscapeResearch/Bridge.png
+  - image_path: /assets/images/Thumbnails/Research/LandscapeResearch/Haywagon.jpg
+    url: /assets/images/Originals/Research/LandscapeResearch/Haywagon.jpg
+  - image_path: /assets/images/Thumbnails/Research/LandscapeResearch/CabinInTheWoods.jpg
+    url: /assets/images/Originals/Research/LandscapeResearch/CabinInTheWoods.jpg
+  - image_path: /assets/images/Thumbnails/Research/LandscapeResearch/Bridge.jpg
+    url: /assets/images/Originals/Research/LandscapeResearch/Bridge.jpg
 
-  - image_path: /assets/images/Thumbnails/Research/LandscapeResearch/GrainElevator.png
-    url: /assets/images/Originals/Research/LandscapeResearch/GrainElevator.png
-  - image_path: /assets/images/Thumbnails/Research/LandscapeResearch/PlainOldBarn.png
-    url: /assets/images/Originals/Research/LandscapeResearch/PlainOldBarn.png
-  - image_path: /assets/images/Thumbnails/Research/LandscapeResearch/RollingPatchworkFields.png
-    url: /assets/images/Originals/Research/LandscapeResearch/RollingPatchworkFields.png
+  - image_path: /assets/images/Thumbnails/Research/LandscapeResearch/GrainElevator.jpg
+    url: /assets/images/Originals/Research/LandscapeResearch/GrainElevator.jpg
+  - image_path: /assets/images/Thumbnails/Research/LandscapeResearch/PlainOldBarn.jpg
+    url: /assets/images/Originals/Research/LandscapeResearch/PlainOldBarn.jpg
+  - image_path: /assets/images/Thumbnails/Research/LandscapeResearch/RollingPatchworkFields.jpg
+    url: /assets/images/Originals/Research/LandscapeResearch/RollingPatchworkFields.jpg
 
 gallery_three:
-  - image_path: /assets/images/Originals/Illustration/GovernmentHouse.png
-    url: /assets/images/O/Originals/Illustration/GovernmentHouse.png
+  - image_path: /assets/images/Originals/Illustration/GovernmentHouse.jpg
+    url: /assets/images/Originals/Illustration/GovernmentHouse.jpg
 
 ---
 
-![](/assets/images/Thumbnails/Illustration/10TorontoStreetSquare.png){: .align-right}
+![](/assets/images/Thumbnails/Illustration/10TorontoStreetSquare.jpg){: .align-right}
 
 Christine’s passion for heritage projects has fueled her advocacy work,
 adaptive re-use projects, landscape studies, archival research and artwork

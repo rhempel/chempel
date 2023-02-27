@@ -2,33 +2,33 @@
 permalink: "/Research/FacilitatedWorkshops/"
 title: "Facilitated Workshops"
 header:
-  overlay_image: "assets/images/Banners/Blue/FacilitationBanner.png"
+  overlay_image: "assets/images/Banners/Blue/FacilitationBanner.jpg"
 #toc: true
 #toc_sticky: true
 layout: splash
 
 gallery_one:
-  - image_path: /assets/images/Originals/Research/FacilitatedWorkshops/WindPlanningWorkshop.png
-    url: /assets/images/Originals/Research/FacilitatedWorkshops/WindPlanningWorkshop.png
+  - image_path: /assets/images/Originals/Research/FacilitatedWorkshops/WindPlanningWorkshop.jpg
+    url: /assets/images/Originals/Research/FacilitatedWorkshops/WindPlanningWorkshop.jpg
     title: "Community Workshop for Wind Energy Planning"
-  - image_path: /assets/images/Originals/Research/FacilitatedWorkshops/LEGOWorkshops.png
-    url: /assets/images/Originals/Research/FacilitatedWorkshops/LEGOWorkshops.png
+  - image_path: /assets/images/Originals/Research/FacilitatedWorkshops/LEGOWorkshops.jpg
+    url: /assets/images/Originals/Research/FacilitatedWorkshops/LEGOWorkshops.jpg
     title: "Design With Nature - Design with LEGO Workshop"
 
 gallery_two:
-  - image_path: /assets/images/Originals/Research/FacilitatedWorkshops/DowntownRevitalizationGalt.png
-    url: /assets/images/Originals/Research/FacilitatedWorkshops/DowntownRevitalizationGalt.png
+  - image_path: /assets/images/Originals/Research/FacilitatedWorkshops/DowntownRevitalizationGalt.jpg
+    url: /assets/images/Originals/Research/FacilitatedWorkshops/DowntownRevitalizationGalt.jpg
     title: "Downtown Revitalization for Galt Workshop"
-  - image_path: /assets/images/Originals/Research/FacilitatedWorkshops/Skovhave.png
-    url: /assets/images/Originals/Research/FacilitatedWorkshops/Skovhave.png
+  - image_path: /assets/images/Originals/Research/FacilitatedWorkshops/Skovhave.jpg
+    url: /assets/images/Originals/Research/FacilitatedWorkshops/Skovhave.jpg
     title: "Skovhave Design Workshop"
 
 gallery_three:
-  - image_path: /assets/images/Originals/Research/FacilitatedWorkshops/Tekerd.png
-    url: /assets/images/Originals/Research/FacilitatedWorkshops/Tekerd.png
+  - image_path: /assets/images/Originals/Research/FacilitatedWorkshops/Tekerd.jpg
+    url: /assets/images/Originals/Research/FacilitatedWorkshops/Tekerd.jpg
     title: "Tekrd! Non Profit Sustainability Workshop"
-  - image_path: /assets/images/Originals/Research/FacilitatedWorkshops/FacilitatedWorkshops.png
-    url: /assets/images/Originals/Research/FacilitatedWorkshops/FacilitatedWorkshops.png
+  - image_path: /assets/images/Originals/Research/FacilitatedWorkshops/FacilitatedWorkshops.jpg
+    url: /assets/images/Originals/Research/FacilitatedWorkshops/FacilitatedWorkshops.jpg
     title: "CHristine Hempel - Graphic Recording"
 ---
 

@@ -2,41 +2,39 @@
 permalink: "/UrbanDesignAndPlanning/AdaptiveReUseConcepts/"
 title: "Adaptive Re-Use Concepts"
 header:
-# overlay_image: "assets/images/banners/QMethodBanner.png"
+  overlay_image: "assets/images/Banners/Blue/MasterplanBanner.jpg"
 layout: splash
-# toc: true
-# toc_sticky: true
 
 gallery_one:
-  - image_path: /assets/images/Thumbnails/UrbanDesignAndPlanning/AdaptiveReUseConcepts/RiverworksBefore.png
-    url: /assets/images/Originals/UrbanDesignAndPlanning/AdaptiveReUseConcepts/RiverworksBefore.png
+  - image_path: /assets/images/Thumbnails/UrbanDesignAndPlanning/AdaptiveReUseConcepts/RiverworksBefore.jpg
+    url: /assets/images/Originals/UrbanDesignAndPlanning/AdaptiveReUseConcepts/RiverworksBefore.jpg
     title: "Riverworks Warehouse Before"
-  - image_path: /assets/images/Thumbnails/UrbanDesignAndPlanning/AdaptiveReUseConcepts/RiverworksAfter.png
-    url: /assets/images/Originals/UrbanDesignAndPlanning/AdaptiveReUseConcepts/RiverworksAfter.png
+  - image_path: /assets/images/Thumbnails/UrbanDesignAndPlanning/AdaptiveReUseConcepts/RiverworksAfter.jpg
+    url: /assets/images/Originals/UrbanDesignAndPlanning/AdaptiveReUseConcepts/RiverworksAfter.jpg
     title: "Riverworks Warehouse After"
 
 gallery_two:
-  - image_path: /assets/images/Thumbnails/UrbanDesignAndPlanning/AdaptiveReUseConcepts/PrestonBefore.png
-    url: /assets/images/Originals/UrbanDesignAndPlanning/AdaptiveReUseConcepts/PrestonBefore.png
+  - image_path: /assets/images/Thumbnails/UrbanDesignAndPlanning/AdaptiveReUseConcepts/PrestonBefore.jpg
+    url: /assets/images/Originals/UrbanDesignAndPlanning/AdaptiveReUseConcepts/PrestonBefore.jpg
     title: "Preston Commercial Before"
-  - image_path: /assets/images/Thumbnails/UrbanDesignAndPlanning/AdaptiveReUseConcepts/PrestonAfter.png
-    url: /assets/images/Originals/UrbanDesignAndPlanning/AdaptiveReUseConcepts/PrestonAfter.png
+  - image_path: /assets/images/Thumbnails/UrbanDesignAndPlanning/AdaptiveReUseConcepts/PrestonAfter.jpg
+    url: /assets/images/Originals/UrbanDesignAndPlanning/AdaptiveReUseConcepts/PrestonAfter.jpg
     title: "Preston Commercial After"
 
 gallery_three:
-  - image_path: /assets/images/Thumbnails/UrbanDesignAndPlanning/AdaptiveReUseConcepts/LCBOBefore.png
-    url: /assets/images/Originals/UrbanDesignAndPlanning/AdaptiveReUseConcepts/LCBOBefore.png
+  - image_path: /assets/images/Thumbnails/UrbanDesignAndPlanning/AdaptiveReUseConcepts/LCBOBefore.jpg
+    url: /assets/images/Originals/UrbanDesignAndPlanning/AdaptiveReUseConcepts/LCBOBefore.jpg
     title: "LCBO Owen Sound Before"
-  - image_path: /assets/images/Thumbnails/UrbanDesignAndPlanning/AdaptiveReUseConcepts/LCBOAfter.png
-    url: /assets/images/Originals/UrbanDesignAndPlanning/AdaptiveReUseConcepts/LCBOAfter.png
+  - image_path: /assets/images/Thumbnails/UrbanDesignAndPlanning/AdaptiveReUseConcepts/LCBOAfter.jpg
+    url: /assets/images/Originals/UrbanDesignAndPlanning/AdaptiveReUseConcepts/LCBOAfter.jpg
     title: "LCBO Owen Sound After"
  
 gallery_four:
-  - image_path: /assets/images/Thumbnails/UrbanDesignAndPlanning/AdaptiveReUseConcepts/CollinsBarrowBefore.png
-    url: /assets/images/Originals/UrbanDesignAndPlanning/AdaptiveReUseConcepts/CollinsBarrowBefore.png
+  - image_path: /assets/images/Thumbnails/UrbanDesignAndPlanning/AdaptiveReUseConcepts/CollinsBarrowBefore.jpg
+    url: /assets/images/Originals/UrbanDesignAndPlanning/AdaptiveReUseConcepts/CollinsBarrowBefore.jpg
     title: "Collins Barrow Commercial Before"
-  - image_path: /assets/images/Thumbnails/UrbanDesignAndPlanning/AdaptiveReUseConcepts/CollinsBarrowAfter.png
-    url: /assets/images/Originals/UrbanDesignAndPlanning/AdaptiveReUseConcepts/CollinsBarrowAfter.png
+  - image_path: /assets/images/Thumbnails/UrbanDesignAndPlanning/AdaptiveReUseConcepts/CollinsBarrowAfter.jpg
+    url: /assets/images/Originals/UrbanDesignAndPlanning/AdaptiveReUseConcepts/CollinsBarrowAfter.jpg
     title: "Collins Barrow Commercial After"
 ---
 

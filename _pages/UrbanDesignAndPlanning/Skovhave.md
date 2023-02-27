@@ -3,32 +3,32 @@ layout: splash
 permalink: "/UrbanDesignAndPlanning/Skovhave/"
 title: "Urban Design: Skovhave Vejle"
 header:
-# overlay_image: "assets/images/Banners/Blue/MasterplanBanner.png"
+  overlay_image: "assets/images/Banners/Blue/MasterplanBanner.jpg"
 
 gallery_one:
-  - image_path: /assets/images/Thumbnails/UrbanDesignAndPlanning/Skovhave/CreekVignette.png
-    url: /assets/images/Originals/UrbanDesignAndPlanning/Skovhave/CreekVignette.png
+  - image_path: /assets/images/Thumbnails/UrbanDesignAndPlanning/Skovhave/CreekVignette.jpg
+    url: /assets/images/Originals/UrbanDesignAndPlanning/Skovhave/CreekVignette.jpg
     title: "Skovhave Creek Vignette - Vejle, DK"
-  - image_path: /assets/images/Thumbnails/UrbanDesignAndPlanning/Skovhave/PublicSketch.png
-    url: /assets/images/Originals/UrbanDesignAndPlanning/Skovhave/PublicSketch.png
+  - image_path: /assets/images/Thumbnails/UrbanDesignAndPlanning/Skovhave/PublicSketch.jpg
+    url: /assets/images/Originals/UrbanDesignAndPlanning/Skovhave/PublicSketch.jpg
     title: "Skovhave Sketch - Vejle, DK"
 
 gallery_two:
-  - image_path: /assets/images/Thumbnails/UrbanDesignAndPlanning/Skovhave/EastVignette.png
-    url: /assets/images/Originals/UrbanDesignAndPlanning/Skovhave/EastVignette.png
+  - image_path: /assets/images/Thumbnails/UrbanDesignAndPlanning/Skovhave/EastVignette.jpg
+    url: /assets/images/Originals/UrbanDesignAndPlanning/Skovhave/EastVignette.jpg
     title: "Skovhave East View Vignette - Vejle, DK"
-  - image_path: /assets/images/Thumbnails/UrbanDesignAndPlanning/Skovhave/Rectangular.png
-    url: /assets/images/Originals/UrbanDesignAndPlanning/Skovhave/Rectangular.png
+  - image_path: /assets/images/Thumbnails/UrbanDesignAndPlanning/Skovhave/Rectangular.jpg
+    url: /assets/images/Originals/UrbanDesignAndPlanning/Skovhave/Rectangular.jpg
     title: "Skovhave - Vejle, DK"
 
 gallery_video:
-  - image_path: /assets/images/Thumbnails/UrbanDesignAndPlanning/Skovhave/VideoLink.png
+  - image_path: /assets/images/Thumbnails/UrbanDesignAndPlanning/Skovhave/VideoLink.jpg
     url: https://www.dreambroker.com/channel/kwl58wgm/ebhozjwi
     title: "Skovhave Video"
 
 gallery_three:
-  - image_path: /assets/images/Originals/UrbanDesignAndPlanning/Skovhave/PlantingScheme.png
-    url: /assets/images/Originals/UrbanDesignAndPlanning/Skovhave/PlantingScheme.png
+  - image_path: /assets/images/Originals/UrbanDesignAndPlanning/Skovhave/PlantingScheme.jpg
+    url: /assets/images/Originals/UrbanDesignAndPlanning/Skovhave/PlantingScheme.jpg
     title: "Skovhave Planting Scheme - Vejle, DK"
 ---
 
