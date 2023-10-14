@@ -1,5 +1,5 @@
 {
-  "image": "mcr.microsoft.com/vscode/devcontainers/jekyll",
+  "image": "mcr.microsoft.com/vscode/devcontainers/jekyll:3.2-bullseye",
   
   "customizations": {
     "vscode": {
