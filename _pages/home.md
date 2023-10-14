@@ -26,6 +26,13 @@ feature_row:
     url: "/Research/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
+
+  - image_path: "/assets/images/Home/WorkshopsThumbnail.jpg"
+    alt: "Teaching And Workshops"
+    title: "Teaching And Workshops"
+    url: "/TeachingAndWorkshops/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
 ---
 
 {% include feature_row %}
