@@ -38,7 +38,7 @@ residential population in the area.
 These images show the aerial and street level character of the Woodlawn Public
 Library neighborhood. It's a typical suburban retail area with some surrounding
 residential zones, and is a candidate for revitalization as the brick-and-mortar
-retail sector shrinks, and residents demand more engaging naighbohoods.
+retail sector shrinks, and residents demand more engaging neighborhoods.
 
 <div class="feature__wrapper"></div>
 
